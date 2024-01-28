@@ -81,3 +81,10 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+## SCREENSHOTS
+
+1. Login Page
+   ![image](https://github.com/smruthi49/VoteChain/assets/94833021/8f17e80d-ec11-484a-a044-38e4eebef030)
+2. User Dashboard
+   ![image](https://github.com/smruthi49/VoteChain/assets/94833021/92c9f7c8-6b4d-4782-aa05-2ea8a48d6037)
+
