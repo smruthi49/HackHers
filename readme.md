@@ -11,6 +11,7 @@ This is a decentralized voting web application that leveraged blockchain technol
 
 ## How it Works
 ### System architecture:
+
 ![BLOCKCHAIN drawio](https://github.com/smruthi49/HackHers/assets/98334746/6d0cb6ca-7e44-4189-81ae-67bc0635212f)
 
 ![block flow drawio](https://github.com/smruthi49/HackHers/assets/98334746/fb4d95c9-2ad7-41fd-a8c1-48fe17488303)
@@ -35,8 +36,11 @@ This is a decentralized voting web application that leveraged blockchain technol
 
 1. The smart contract is initiated with a list of contesting candidate names.
 2. When the user is logged in the system as a voter, their metamask wallet address is captured by the contract.
-3. The function vote() takes in parameter as candidate ID. It first checks if the voter's address is already present in the voter's list hencce making sure if the voter has voted or not.
+3. The function vote() takes in parameter as candidate ID. It first checks if the voter's address is already present in the voter's list hence making sure if the voter has voted or not.
 4. Next, it checks if the candidate is a valid candidate by checking if the ID of the candidate is less than the total length of the number of candidates present, i.e, validity checking.
 5. Once these checks are done, when the user presses on vote, the vote count of the candidate increments by one.
 6. Once they are done voting, the address of the voter is added to the voter's list by mapping it to true.
-7. Only the admin will be allowed to add/edit candidate. 
+
+### User interface design:
+
+Used react js and library "styled-components" for building intuitive user interface.
