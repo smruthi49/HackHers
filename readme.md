@@ -1,4 +1,4 @@
-![image](https://github.com/smruthi49/HackHers/assets/94833021/39fa8577-6114-4077-a392-4114892f7e9a)
+![image](https://github.com/smruthi49/HackHers/assets/94833021/b0ca21af-3876-44c5-99ca-31ed34d7d8b4)
 
 
 # VoteChain
