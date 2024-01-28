@@ -85,6 +85,40 @@ npx hardhat run scripts/deploy.js
 
 1. Login Page
    ![image](https://github.com/smruthi49/VoteChain/assets/94833021/8f17e80d-ec11-484a-a044-38e4eebef030)
-2. User Dashboard
-   ![image](https://github.com/smruthi49/VoteChain/assets/94833021/92c9f7c8-6b4d-4782-aa05-2ea8a48d6037)
+   
+3. User Dashboard
+   ![image](https://github.com/smruthi49/VoteChain/assets/94833021/1050c071-d84b-4d3d-8751-97fa3552edeb)
+   ![image](https://github.com/smruthi49/VoteChain/assets/94833021/a9fccfa7-c501-458f-97aa-d3218fe8955c)
+   
+5. Connect to MetaMask Wallet
+   <img width="1280" alt="Screenshot 2024-01-28 at 16 43 42" src="https://github.com/smruthi49/VoteChain/assets/94833021/7ca02306-457e-4209-944b-e7ead7601d58">
+   
+6. Connected to MetaMask Wallet
+   <img width="1280" alt="Screenshot 2024-01-28 at 16 43 53" src="https://github.com/smruthi49/VoteChain/assets/94833021/e2c114cf-ba95-4867-9c73-7f024f1f527a">
+   
+7. List of Candidates
+   <img width="1280" alt="Screenshot 2024-01-28 at 16 45 39" src="https://github.com/smruthi49/VoteChain/assets/94833021/dd628bc7-1277-47fd-8df6-6f3fe3ae2446">
+   
+8. Cast your Vote
+   <img width="1280" alt="Screenshot 2024-01-28 at 16 45 56" src="https://github.com/smruthi49/VoteChain/assets/94833021/991b8175-1428-455c-a3ac-83da97cdbc0d">
+   
+9. Confirm Transaction
+   <img width="1280" alt="Screenshot 2024-01-28 at 16 46 07" src="https://github.com/smruthi49/VoteChain/assets/94833021/3109a1a1-6eb3-459f-98b7-268c3fa3deb0">
+   
+10. Vote Added - Confirmation
+   <img width="1280" alt="Screenshot 2024-01-28 at 16 46 18" src="https://github.com/smruthi49/VoteChain/assets/94833021/d3df0f12-82d9-44a5-9a1a-196bd176bcf4">
+   
+11. You cannot vote twice - Restricts Double Voting
+    <img width="1280" alt="Screenshot 2024-01-28 at 16 46 33" src="https://github.com/smruthi49/VoteChain/assets/94833021/70364b9d-9f94-423f-8af9-3d6f6bad590f">
+    
+12. List of Transactions
+    <img width="1280" alt="Screenshot 2024-01-28 at 16 47 06" src="https://github.com/smruthi49/VoteChain/assets/94833021/367c9d56-6106-4151-81f6-e97e02e35f4d">
+    
+13. Vote count of candidate incremented
+    <img width="1280" alt="Screenshot 2024-01-28 at 16 49 01" src="https://github.com/smruthi49/VoteChain/assets/94833021/2773d484-ca0f-470b-bb75-d4c8e96bac3c">
+    
+
+
+
+
 
