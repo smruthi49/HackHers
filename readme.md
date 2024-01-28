@@ -56,8 +56,15 @@ This is a decentralized voting web application that leveraged blockchain technol
 Used react js and library "styled-components" for building intuitive user interface.
 
 ### Getting Started
-```
-git clone https://github.com/smruthi49/blockchain-voting-app.git
-cd blockchain-voting-app
 
+1. Clone Repository
+```
+git clone https://github.com/smruthi49/VoteChain.git
+cd VoteChain
+
+```
+
+2. Install Dependencies
+```
+npm install
 ```
