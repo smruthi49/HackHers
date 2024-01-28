@@ -55,32 +55,6 @@ This is a decentralized voting web application that leveraged blockchain technol
 
 Used react js and library "styled-components" for building intuitive user interface.
 
-### Getting Started
-
-1. Clone Repository
-```
-git clone https://github.com/smruthi49/VoteChain.git
-cd VoteChain
-
-```
-
-2. Install Dependencies
-```
-npm install
-```
-
- 3. Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
 ## SCREENSHOTS
 
 1. Login Page
