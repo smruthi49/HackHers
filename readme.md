@@ -1,4 +1,4 @@
-# CosVote
+# App
 
 This is a decentralized voting web application that leveraged blockchain technology to ensure transparent, secure, and tamper-resistant voting. 
 
