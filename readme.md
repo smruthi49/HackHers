@@ -3,11 +3,11 @@
 This is a decentralized voting web application that leveraged blockchain technology to ensure transparent, secure, and tamper-resistant voting. 
 
 ## Features
-- Decentralized Voting
-- Security
-- Anonymity
-- Tamper Resistance
-- User-Friendly Interface
+- Decentralized Voting : Eliminates the need for central authority, making the process more transparent.
+- Security : Utilize Blockchain's cryptographic features to secure votes and ensure integrity.
+- Anonymity : Provides a secure and anonymous voting experience.
+- Tamper Resistance : Ensure the immutability of voting records on the blockchain.
+- User-Friendly Interface : Offers an intuitive and user-friendly interface built on React.
 
 ## How it Works
 ### System architecture:
@@ -15,6 +15,13 @@ This is a decentralized voting web application that leveraged blockchain technol
 ![BLOCKCHAIN drawio](https://github.com/smruthi49/HackHers/assets/98334746/6d0cb6ca-7e44-4189-81ae-67bc0635212f)
 
 ![block flow drawio](https://github.com/smruthi49/HackHers/assets/98334746/fb4d95c9-2ad7-41fd-a8c1-48fe17488303)
+
+## Why is Blockchain-based voting system better
+1. Fraud Prevention : Blockchain's cryptographic security ensures the integrity of votes.
+2. Avoid Long Queues : Decentralized and remote voting options.
+3. Tamper-Resistance : Blockchain's immutability safeguards against tampering, providing a secure and transparent voting process.
+4. Secure ID Verification : Enhances security of the voting system, reducing the potential for identity fraud.
+5. Mitigation of Last-minute Campaigning : Enforced deadlines in blockchain-based voting systems minimize the impact of last-minute campaigning. 
 
 ### Work flow:
 
